@@ -8,6 +8,6 @@ The assignments are required to solve the shortest path problem and Bellman-ford
 
 1) reduce the data transferring, especially those redundant, between hosts and devices
 2) heuristic optimizations are involved to terminate the search in advance
-3) reduce the trigerring of the "critical" parts in OMP
+3) reduce the trigerring of the "critical" parts in OpenMP
 4) make full use of the reduction operation in MPI
 
